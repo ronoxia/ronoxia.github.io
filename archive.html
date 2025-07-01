@@ -1,0 +1,19 @@
+---
+layout: default
+title: All Posts
+permalink: /all-posts
+---
+
+<div class="post-list">
+    <h1>All Posts</h1>
+    <ul>
+      {% for post in site.posts %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+          <p>{{ post.excerpt | strip_html | truncate: 200 }}</p>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+  
+  <p>Want to explore by topic instead? <a href="/writings-by-tags">Browse by tags →</a></p>

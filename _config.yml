@@ -1,0 +1,29 @@
+# Setup
+title:               Rono Xia
+tagline:             'Serving clarity in complex systems'
+description:         'Serve clarity.'
+url:                 https://ronoxia.github.io
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Rono Xia
+  url:               https://www.linkedin.com/in/ronoxia
+  email:             fancysmartypantx@gmail.com
+
+# Gems
+plugins:
+  - jekyll-paginate
+  - jekyll-tagging
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
+
+# Enable MathJax with Kramdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
