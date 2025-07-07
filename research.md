@@ -25,9 +25,9 @@ What I took seriously, though, was the process of learning how to model systems 
 **Lab:** Mehta Lab @ UCLA  
 **Advisor:** Prof. Mayank Mehta
 
-I implemented a simplified kinetic model of synaptic depression using Python and ODEs — simulating how the probability of neurotransmitter release changes with repeated spikes. It was messy and manual and not always elegant, but it taught me how to test a model against intuition and push beyond just "making it run."
+We reproduced published kinetic models of short-term synaptic depression using Python and differential equations (ODEINT). Our implementation simulated vesicle depletion and recovery dynamics at depression-dominated synapses, modeling how release probability decreases with sustained presynaptic activity. The model captured frequency-dependent synaptic filtering, demonstrating how postsynaptic responses reach steady-state amplitude that scales inversely with input frequency - creating a frequency-dependent filter that maintains signal fidelity within the synapse's operating range.
 
-📄 [Read the paper (PDF)]()
+📄 [Read the paper (PDF)](/assets/files/Simulating_Synaptic_Depression_to_Infer_Properties_of_Synaptic_Transmission.pdf)
 📓 [View the notebook]()
 
 
