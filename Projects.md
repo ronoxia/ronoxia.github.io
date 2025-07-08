@@ -10,9 +10,9 @@ permalink: /projects.html
 **The Last Bookstore, Los Angeles** | *Systems Integration Consultant*  
 June - August 2024
 
-Designed API integration strategy for consolidating multi-platform e-commerce operations into a unified Wix-based system. Navigated legacy SOAP/REST systems, analyzed database architecture trade-offs for 12M+ title catalog, and managed stakeholder communication across technical and business constraints.
+Designed API integration strategy for consolidating multi-platform e-commerce operations into a unified Wix-based system. Analyzed data provider's legacy SOAP/REST systems, evaluated database architecture trade-offs for 12M+ title catalog, and managed stakeholder communication across technical and business constraints.
 
-**Key Technical Work**: Legacy system migration strategy, FTP vs. Web Service cost analysis, real-time inventory integration design  
+**Key Technical Work**: Legacy system integration strategy, FTP vs. Web Service cost analysis, real-time inventory integration design  
 **Skills**: API integration, system architecture, stakeholder communication, project scoping
 
 [View detailed work sample →](/work-samples.html) | [Technical documentation →](https://docs.google.com/document/d/e/2PACX-1vQI40V3qGc-2-ZOSeMmWyebHXIeYYyH96kWU3YsuuU1z5Xvbo9gUl2r333SIYYqC2pX5qwNSfQ98ZDN/pub)
