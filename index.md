@@ -102,11 +102,3 @@ i'm currently:
 
 [reach out →](mailto:ronocodes@gmail.com) | [linkedin](https://www.linkedin.com/in/rono-x-99b181232/) | [github](https://github.com/ronoxia)
 
----
-
-<small id="site-footnote">
-    <sup>1</sup> this site is an experimental ground  
-      - inspired by andy matuschak's [evergreen notes](https://notes.andymatuschak.org/Evergreen_notes)  
-      - built in jekyll, hosted on [github](https://github.com/ronoxia)  
-      - always in progress, just like me
-</small>
